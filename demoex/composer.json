@@ -1,0 +1,14 @@
+{
+    "name": "coopteh/demo_exam",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "CoopTeh",
+            "email": "info@coopteh.ru"
+        }
+    ]
+}
