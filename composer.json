@@ -1,5 +1,5 @@
 {
-    "name": "danil/demo_exam",
+    "name": "укуку/demo_exam",
     "autoload": {
         "psr-4": {
             "App\\": "src/"
@@ -7,7 +7,7 @@
     },
     "authors": [
         {
-            "name": "Данил Протопопов"
+            "name": "Данил Шабыров"
         }
     ]
 }
