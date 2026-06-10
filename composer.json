@@ -1,9 +1,5 @@
 {
-<<<<<<< HEAD
     "name": "danil/demo_exam",
-=======
-    "name": "coopteh/demo_exam",
->>>>>>> 20ae92e3cd2e1758707c72673866725148271cab
     "autoload": {
         "psr-4": {
             "App\\": "src/"
@@ -11,15 +7,7 @@
     },
     "authors": [
         {
-<<<<<<< HEAD
             "name": "Данил Протопопов"
         }
     ]
 }
-=======
-            "name": "CoopTeh",
-            "email": "info@coopteh.ru"
-        }
-    ]
-}
->>>>>>> 20ae92e3cd2e1758707c72673866725148271cab
